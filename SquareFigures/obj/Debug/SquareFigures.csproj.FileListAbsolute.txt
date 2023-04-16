@@ -1,0 +1,8 @@
+C:\Users\allap\OneDrive\Рабочий стол\C#\SquareFigures\SquareFigures\bin\Debug\SquareFigures.exe.config
+C:\Users\allap\OneDrive\Рабочий стол\C#\SquareFigures\SquareFigures\bin\Debug\SquareFigures.exe
+C:\Users\allap\OneDrive\Рабочий стол\C#\SquareFigures\SquareFigures\bin\Debug\SquareFigures.pdb
+C:\Users\allap\OneDrive\Рабочий стол\C#\SquareFigures\SquareFigures\obj\Debug\SquareFigures.csproj.AssemblyReference.cache
+C:\Users\allap\OneDrive\Рабочий стол\C#\SquareFigures\SquareFigures\obj\Debug\SquareFigures.csproj.SuggestedBindingRedirects.cache
+C:\Users\allap\OneDrive\Рабочий стол\C#\SquareFigures\SquareFigures\obj\Debug\SquareFigures.csproj.CoreCompileInputs.cache
+C:\Users\allap\OneDrive\Рабочий стол\C#\SquareFigures\SquareFigures\obj\Debug\SquareFigures.exe
+C:\Users\allap\OneDrive\Рабочий стол\C#\SquareFigures\SquareFigures\obj\Debug\SquareFigures.pdb
